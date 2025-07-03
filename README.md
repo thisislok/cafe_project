@@ -22,7 +22,7 @@ The modular design separates user-facing functionality and employee tools (e.g. 
 
 ---
 
-## 🧪 Program Walkthrough
+## Program Walkthrough
 
 ###  Browse available products  
 Users can list all available books, food, and coffee items.  
